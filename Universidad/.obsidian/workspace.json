@@ -11,8 +11,12 @@
             "id": "8f2dd548dadd8d78",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "QuintoSemestre/Análisis y Diseño de Algoritmos I/Análisis de Algoritmos.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "QuintoSemestre/Análisis y Diseño de Algoritmos I/Análisis de Algoritmos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "QuintoSemestre/Análisis y Diseño de Algoritmos I/Análisis de Algoritmos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "QuintoSemestre/Análisis y Diseño de Algoritmos I/Análisis de Algoritmos.md"
               }
             }
           }
@@ -140,9 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4dfab2197b2b9a3e",
+  "active": "8f2dd548dadd8d78",
   "lastOpenFiles": [
-    "QuintoSemestre",
-    "Welcome.md"
+    "QuintoSemestre/Análisis y Diseño de Algoritmos I/Análisis de Algoritmos.md",
+    "QuintoSemestre/Análisis y Diseño de Algoritmos I",
+    "Welcome.md",
+    "QuintoSemestre"
   ]
 }
