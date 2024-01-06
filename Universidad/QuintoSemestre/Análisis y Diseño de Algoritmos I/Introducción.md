@@ -1,0 +1,20 @@
+# ¿Qué es un algoritmo?
+Nos referimos con algoritmo a un conjunto de instrucciones o reglas definidas y no ambiguas, ordenadas y finitas que permite solucionar un problema, realizar un cómputo, procesar datos y llevar a cabo otras tareas o actividades. Los algoritmos usualmente reciben una entrada, sobre la cual realizan un proceso definido para producir una salida esperada. ^6add10
+
+# ¿Por qué es importante el análisis de algoritmos?
+El análisis de algoritmos es fundamental en el campo de la computación por varias razones clave:
+
+1. **Eficiencia**: Permite evaluar la eficiencia de un algoritmo en términos de tiempo y espacio. Comprender cuánto tiempo tomará un algoritmo para ejecutarse o cuánta memoria utilizará es crucial para diseñar sistemas que funcionen de manera óptima.
+
+2. **Toma de decisiones**: Ayuda a tomar decisiones informadas sobre qué algoritmo utilizar en función de las necesidades específicas. Al conocer la complejidad temporal y espacial, se puede seleccionar el algoritmo más adecuado para un problema particular.
+
+3. **Optimización**: El análisis de algoritmos permite identificar oportunidades para mejorar algoritmos existentes. Al comprender cómo y por qué un algoritmo funciona de una manera determinada, es posible optimizarlo o buscar alternativas más eficientes.
+
+4. **Escalabilidad**: A medida que los conjuntos de datos crecen, es esencial que los algoritmos puedan manejar el aumento en la cantidad de información de manera eficiente. El análisis de algoritmos ayuda a entender cómo se comportan estos métodos a medida que las entradas crecen en tamaño.
+
+5. **Base teórica**: Proporciona una base teórica sólida para comprender los límites computacionales y la resolución de problemas. Esta comprensión es crucial en la creación de software robusto y eficiente.
+
+> [!summary] Resumen General
+> El análisis de algoritmos es fundamental para optimizar el rendimiento de las soluciones informáticas, tomar decisiones informadas sobre qué algoritmo utilizar y comprender los límites computacionales para resolver problemas de manera eficiente.
+
+
