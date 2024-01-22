@@ -27,5 +27,53 @@ Algunas de las notaciones más utilizadas son:
 
 Estas notaciones proporcionan diferentes perspectivas para analizar y describir el comportamiento de las funciones, lo que es fundamental en el análisis de algoritmos para entender su eficiencia en términos de tiempo y espacio.
 
+Algunas complejidades comunes son:
+- $O(1)$: Constante
+- $O(log(n))$: Logarítmica
+- $O(n)$: Lineal
+- $O(n*log(n))$: Linealítmica
+- $O(n^2)$: Cuadrática
+- $O(2^n)$: Exponencial
+- $O(n!)$: Factorial
+
+# ¿Cómo se calcula Big O?
+Para el cálculo de la complejidad de un algoritmo, podemos utilizar ciertas normas iniciales, las cuales especifican que las asignaciones, operaciones aritméticas y returns tienen un costo computacional de 1. Podemos, por ejemplo, calcular la complejidad de la siguiente función, la cual recibe como argumentos una lista *a* de enteros, un entero *n*, correspondiente al tamaño de la lista y un entero *z*, y finalmente devuelve si existe un par de elementos en *a* cuya suma sea igual a *z*:
+
+```cpp
+bool findPair(int a[], int n, int z)
+{
+    for (int i = 0; i < n; i++)
+        for (int j = 0; j < n; j++)
+            if (i != j && a[i] + a[j] == z)
+                return true;
+
+    return false;
+}
+```
+
+En el cuerpo de la función podemos hallar, inicialmente, un bucle for, el cual realiza dos operaciones (comparar y asignar), dándole un costo 2, y se ejecuta n+1 veces, pues debe verificar n+1 veces la condición. Nuestra complejidad empezaría a verse así:
+
+	$T_{sum} = 2*(n+1)$
+
+No obstante, observamos la existencia de un bucle for anidado, lo que significa que se repetirá tanto dentro de sí mismo como dentro del bucle anterior, por lo que debemos modificar nuestra ecuación de la siguiente forma:
+
+	$T_{sum} = (2*(n+1))^2$
+
+Dentro del segundo bucle, podemos hallar una expresión if, la cual realiza una operación aritmética y dos comprobaciones, por lo que tiene un coste de 3. Adicionalmente, esta expresión if puede llegar a ejecutarse tantas veces como los bucles for, por lo cual:
+
+	$T_{sum} = (2*(n+1))^2 + 3*n^2$
+
+Finalmente, se retorna un valor. Es importante tener en cuenta que las expresiones return sólo se ejecutan una vez, por lo que su cálculo es sencillo:
+
+	$T_{sum} = (2*(n+1))^2 + 3n^2 + 1$
+
+Simplificamos la expresión:
+
+	$T_{sum} = 7n^2 + 8n + 5$
+
+En la notación Big O, prescindimos de los términos de orden inferior y las constantes, dejando únicamente el término dominante, por lo tanto, nuestra complejidad final sería expresada como:
+
+	$O(n^2)$
+
 >[!abstract] Resumen General
 >Los órdenes de crecimiento y las notaciones asintóticas ayudan a describir cómo cambia la eficiencia de un algoritmo a medida que varía el tamaño de la entrada. La notación Big O, Theta y Omega se utilizan para establecer límites superiores, comportamientos ajustados/exactos y límites inferiores, respectivamente, del crecimiento de una función en relación con otra función a medida que la variable de entrada tiende hacia valores específicos, generalmente hacia el infinito.
