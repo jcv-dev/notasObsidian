@@ -78,9 +78,11 @@ def busquedaBinariaRec(arr, elemento, inicio, fin):
         if arr[mitad] == elemento:
             return mitad  # Elemento encontrado, devolver la posición
         elif arr[mitad] < elemento:
-            return busquedaBinariaRec(arr, elemento, mitad + 1, fin)  # Buscar en la mitad derecha
+	        # Buscar en la mitad derecha
+            return busquedaBinariaRec(arr, elemento, mitad + 1, fin)  
         else:
-            return busquedaBinariaRec(arr, elemento, inicio, mitad - 1)  # Buscar en la mitad izquierda
+	         # Buscar en la mitad izquierda
+            return busquedaBinariaRec(arr, elemento, inicio, mitad - 1) 
     else:
         return -1  # Elemento no encontrado
 ```
