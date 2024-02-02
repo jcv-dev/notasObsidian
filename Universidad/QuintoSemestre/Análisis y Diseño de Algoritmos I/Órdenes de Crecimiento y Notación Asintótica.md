@@ -29,9 +29,9 @@ Estas notaciones proporcionan diferentes perspectivas para analizar y describir 
 
 Algunas complejidades comunes son:
 - $O(1)$: Constante
-- $O(log(n))$: Logarítmica
+- $O(\log n)$: Logarítmica
 - $O(n)$: Lineal
-- $O(n*log(n))$: Linealítmica
+- $O(n*\log n)$: Linealítmica
 - $O(n^2)$: Cuadrática
 - $O(2^n)$: Exponencial
 - $O(n!)$: Factorial
