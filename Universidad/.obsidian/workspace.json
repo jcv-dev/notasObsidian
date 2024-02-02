@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a302685c343a32d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "QuintoSemestre/Análisis y Diseño de Algoritmos I/Análisis de Algoritmos Sencillos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -38,7 +51,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QuintoSemestre/Análisis y Diseño de Algoritmos I/Órdenes de Crecimiento y Notación Asintótica.md",
+                "file": "QuintoSemestre/Análisis y Diseño de Algoritmos I/Análisis de Algoritmos Sencillos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "QuintoSemestre/Análisis y Diseño de Algoritmos I/Órdenes de Crecimiento y Notación Asintótica.md",
+                "file": "QuintoSemestre/Análisis y Diseño de Algoritmos I/Análisis de Algoritmos Sencillos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QuintoSemestre/Análisis y Diseño de Algoritmos I/Órdenes de Crecimiento y Notación Asintótica.md"
+                "file": "QuintoSemestre/Análisis y Diseño de Algoritmos I/Análisis de Algoritmos Sencillos.md"
               }
             }
           }
@@ -146,10 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "019667b5be10d82a",
+  "active": "a302685c343a32d6",
   "lastOpenFiles": [
-    "QuintoSemestre/Análisis y Diseño de Algoritmos I/Introducción.md",
     "QuintoSemestre/Análisis y Diseño de Algoritmos I/Órdenes de Crecimiento y Notación Asintótica.md",
+    "QuintoSemestre/Análisis y Diseño de Algoritmos I/Análisis de Algoritmos Sencillos.md",
+    "QuintoSemestre/Análisis y Diseño de Algoritmos I/Introducción.md",
     "Untitled",
     "QuintoSemestre/Análisis y Diseño de Algoritmos I",
     "Welcome.md",

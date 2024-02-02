@@ -77,3 +77,6 @@ En la notación Big O, prescindimos de los términos de orden inferior y las con
 
 >[!abstract] Resumen General
 >Los órdenes de crecimiento y las notaciones asintóticas ayudan a describir cómo cambia la eficiencia de un algoritmo a medida que varía el tamaño de la entrada. La notación Big O, Theta y Omega se utilizan para establecer límites superiores, comportamientos ajustados/exactos y límites inferiores, respectivamente, del crecimiento de una función en relación con otra función a medida que la variable de entrada tiende hacia valores específicos, generalmente hacia el infinito.
+
+
+
