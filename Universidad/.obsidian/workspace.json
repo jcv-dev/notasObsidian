@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7efc39355f53ffdf",
+        "id": "d5ea01146adc7b38",
         "type": "tabs",
         "children": [
           {
-            "id": "15f63c1b7d5808f5",
+            "id": "f5ebfac0bcb83ae0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QuintoSemestre/Análisis y Diseño de Algoritmos I/3. Análisis de Algoritmos Sencillos.md",
+                "file": "QuintoSemestre/Desarrollo de Software I/1. Introducción a Desarrollo de Software I.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QuintoSemestre/Análisis y Diseño de Algoritmos I/3. Análisis de Algoritmos Sencillos.md",
+                "file": "QuintoSemestre/Desarrollo de Software I/1. Introducción a Desarrollo de Software I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "QuintoSemestre/Análisis y Diseño de Algoritmos I/3. Análisis de Algoritmos Sencillos.md",
+                "file": "QuintoSemestre/Desarrollo de Software I/1. Introducción a Desarrollo de Software I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QuintoSemestre/Análisis y Diseño de Algoritmos I/3. Análisis de Algoritmos Sencillos.md"
+                "file": "QuintoSemestre/Desarrollo de Software I/1. Introducción a Desarrollo de Software I.md"
               }
             }
           }
@@ -146,12 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15f63c1b7d5808f5",
+  "active": "f5ebfac0bcb83ae0",
   "lastOpenFiles": [
-    "QuintoSemestre/Análisis y Diseño de Algoritmos I/2. Órdenes de Crecimiento y Notación Asintótica.md",
-    "QuintoSemestre/Análisis y Diseño de Algoritmos I/1. Introducción.md",
+    "QuintoSemestre/Desarrollo de Software I/1. Introducción a Desarrollo de Software I.md",
     "QuintoSemestre/Análisis y Diseño de Algoritmos I/3. Análisis de Algoritmos Sencillos.md",
-    "Untitled",
+    "QuintoSemestre/Análisis y Diseño de Algoritmos I/1. Introducción a Análisis de Algoritmos I.md",
+    "QuintoSemestre/Fundamentos de Redes/1. Introducción a Fundamentos de Redes.md",
+    "QuintoSemestre/Análisis y Diseño de Algoritmos I/2. Órdenes de Crecimiento y Notación Asintótica.md",
+    "QuintoSemestre/Desarrollo de Software I",
+    "QuintoSemestre/Fundamentos de Redes",
     "QuintoSemestre/Análisis y Diseño de Algoritmos I",
     "Welcome.md",
     "QuintoSemestre"
