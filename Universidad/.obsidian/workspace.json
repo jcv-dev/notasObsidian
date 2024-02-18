@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QuintoSemestre/Simulación y Computación Numérica/2. Polinomio de Taylor.md",
+                "file": "QuintoSemestre/Análisis y Diseño de Algoritmos I/1. Introducción a Análisis de Algoritmos I.md",
                 "mode": "preview",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QuintoSemestre/Simulación y Computación Numérica/2. Polinomio de Taylor.md",
+                "file": "QuintoSemestre/Análisis y Diseño de Algoritmos I/1. Introducción a Análisis de Algoritmos I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "QuintoSemestre/Simulación y Computación Numérica/2. Polinomio de Taylor.md",
+                "file": "QuintoSemestre/Análisis y Diseño de Algoritmos I/1. Introducción a Análisis de Algoritmos I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QuintoSemestre/Simulación y Computación Numérica/2. Polinomio de Taylor.md"
+                "file": "QuintoSemestre/Análisis y Diseño de Algoritmos I/1. Introducción a Análisis de Algoritmos I.md"
               }
             }
           }
@@ -173,13 +173,13 @@
   },
   "active": "cf977ce7b8ef4d38",
   "lastOpenFiles": [
-    "QuintoSemestre/Simulación y Computación Numérica/1. Introducción a Simulación y Computación Numérica.md",
-    "QuintoSemestre/Fundamentos de Redes/1. Introducción a Fundamentos de Redes.md",
-    "QuintoSemestre/Simulación y Computación Numérica/2. Polinomio de Taylor.md",
-    "QuintoSemestre/Análisis y Diseño de Algoritmos I/3. Análisis de Algoritmos Sencillos.md",
     "QuintoSemestre/Análisis y Diseño de Algoritmos I/2. Órdenes de Crecimiento y Notación Asintótica.md",
+    "QuintoSemestre/Análisis y Diseño de Algoritmos I/3. Análisis de Algoritmos Sencillos.md",
     "QuintoSemestre/Análisis y Diseño de Algoritmos I/1. Introducción a Análisis de Algoritmos I.md",
     "QuintoSemestre/Desarrollo de Software I/1. Introducción a Desarrollo de Software I.md",
+    "QuintoSemestre/Simulación y Computación Numérica/1. Introducción a Simulación y Computación Numérica.md",
+    "QuintoSemestre/Simulación y Computación Numérica/2. Polinomio de Taylor.md",
+    "QuintoSemestre/Fundamentos de Redes/1. Introducción a Fundamentos de Redes.md",
     "QuintoSemestre/Simulación y Computación Numérica/Untitled",
     "QuintoSemestre/Simulación y Computación Numérica",
     "QuintoSemestre/Desarrollo de Software I",
