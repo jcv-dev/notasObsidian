@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QuintoSemestre/Simulación y Computación Numérica/Introducción a Simulación y Computación Numérica.md",
+                "file": "QuintoSemestre/Simulación y Computación Numérica/1. Introducción a Simulación y Computación Numérica.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cf977ce7b8ef4d38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "QuintoSemestre/Simulación y Computación Numérica/2. Polinomio de Taylor.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 328.5
   },
   "right": {
     "id": "f7d654845abdd915",
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QuintoSemestre/Simulación y Computación Numérica/Introducción a Simulación y Computación Numérica.md",
+                "file": "QuintoSemestre/Simulación y Computación Numérica/2. Polinomio de Taylor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "QuintoSemestre/Simulación y Computación Numérica/Introducción a Simulación y Computación Numérica.md",
+                "file": "QuintoSemestre/Simulación y Computación Numérica/2. Polinomio de Taylor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QuintoSemestre/Simulación y Computación Numérica/Introducción a Simulación y Computación Numérica.md"
+                "file": "QuintoSemestre/Simulación y Computación Numérica/2. Polinomio de Taylor.md"
               }
             }
           }
@@ -159,16 +171,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c112ad3a39bc3a5",
+  "active": "cf977ce7b8ef4d38",
   "lastOpenFiles": [
+    "QuintoSemestre/Simulación y Computación Numérica/1. Introducción a Simulación y Computación Numérica.md",
+    "QuintoSemestre/Fundamentos de Redes/1. Introducción a Fundamentos de Redes.md",
+    "QuintoSemestre/Simulación y Computación Numérica/2. Polinomio de Taylor.md",
     "QuintoSemestre/Análisis y Diseño de Algoritmos I/3. Análisis de Algoritmos Sencillos.md",
-    "QuintoSemestre/Simulación y Computación Numérica/Introducción a Simulación y Computación Numérica.md",
-    "QuintoSemestre/Simulación y Computación Numérica/Untitled",
-    "QuintoSemestre/Simulación y Computación Numérica",
     "QuintoSemestre/Análisis y Diseño de Algoritmos I/2. Órdenes de Crecimiento y Notación Asintótica.md",
     "QuintoSemestre/Análisis y Diseño de Algoritmos I/1. Introducción a Análisis de Algoritmos I.md",
-    "QuintoSemestre/Fundamentos de Redes/1. Introducción a Fundamentos de Redes.md",
     "QuintoSemestre/Desarrollo de Software I/1. Introducción a Desarrollo de Software I.md",
+    "QuintoSemestre/Simulación y Computación Numérica/Untitled",
+    "QuintoSemestre/Simulación y Computación Numérica",
     "QuintoSemestre/Desarrollo de Software I",
     "QuintoSemestre/Fundamentos de Redes",
     "QuintoSemestre/Análisis y Diseño de Algoritmos I",
