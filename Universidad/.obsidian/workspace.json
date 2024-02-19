@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "QuintoSemestre/Fundamentos de Interpretación y Compilación de Lenguajes de Programación/2. Gramáticas.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5
+    "width": 288.5086555480957
   },
   "right": {
     "id": "f7d654845abdd915",
