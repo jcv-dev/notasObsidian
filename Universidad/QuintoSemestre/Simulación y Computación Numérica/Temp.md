@@ -1,3 +1,0 @@
-- Error real
-	- Frontera superior 
-- Cota máxima del error
