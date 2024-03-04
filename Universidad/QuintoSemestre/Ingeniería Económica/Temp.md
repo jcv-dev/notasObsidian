@@ -12,5 +12,5 @@
 - Monto o valor futuro a interés compuesto
 - Cálculo del valor futuro
 - Notación estándar
-- Tasa nominal, tasa efectiva y tasas equivalentes (cálculo interés periódico y el efectivo)
+- Tasa nominal, tasa periodica,  tasa efectiva y tasas equivalentes (cálculo interés periódico y el efectivo)
 - Comisión-intereses
