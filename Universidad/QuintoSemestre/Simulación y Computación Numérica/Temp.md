@@ -1,8 +1,0 @@
-- Aproximación polinomial
-- Polinomio de Lagrange
-- Error de Lagrange
-	- Para un x entre los nodos y, por supuesto en I, existe un número Z tal que $f(x)=P_n(x)+E_L$ donde $P_n$ es el polinomio de Lagrange y $E_L= \frac{f^{n+1}(z)}{(n+1)!}(x-x_0)(x-x_1)...(x-x_n)$
-- Diferencias divididas (interpolación de Newton): sean los n+1 nodos distintos y P(x) es el polinomio interpolante de Lagrange que puede escribirse como $P(x)=a_0+a_1(x-x_0)...(x-x_{n-1})$. Como $P_n(x_i)=f(x_i)$ debo calcular los $a_j$ para $j=0,1,2,3 ...n$:
-	- $P_n(x_0) = a_0 = f(x_0)$ 
-	- $P_n(x_1) = a_0+a_1(x_1-x_0) = f(x_1) \implies a_1=\frac{f(x_1)-a_0}{x_1-x_0}=\frac{f(x_1)-f(x_0)}{x_1-x_0}$
-	- $P_n(x_2) = a_0+a_1(x_1-x_0)+a_2(x_2-x_0)(x_2-x_1) = f(x_1)$

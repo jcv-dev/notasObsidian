@@ -1,2 +1,0 @@
-- Metodología RUP
-	- Disciplinas técnicas: requisitos, análisis y diseño
